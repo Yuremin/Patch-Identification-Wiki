@@ -6,6 +6,10 @@
 
 ## Paper list
 
+### 2017
+
++ A large-scale empirical study of security patches [CCS] [[paper]](https://dl.acm.org/doi/pdf/10.1145/3133956.3134072)
+
 ### 2018
 
 + DeepJIT: an end-to-end deep learning framework for just-in-time defect prediction [MSR] [[paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5489&context=sis_research)
@@ -22,8 +26,8 @@
 ### 2022
 
 + Enhancing Security Patch Identification by Capturing Structures in Commits [TDSC] [[paper]](https://arxiv.org/pdf/2207.09022.pdf)
-
 + Software security patch management - A systematic literature review of challenges, approaches, tools and practices [IST] [[paper]](https://www.sciencedirect.com/science/article/pii/S0950584921002147)
++ VulCurator: a vulnerability-fixing commit detector [ESEC] [[paper]](https://arxiv.org/pdf/2209.03260.pdf)
 
 
 
