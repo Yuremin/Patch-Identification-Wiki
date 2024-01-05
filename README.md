@@ -20,6 +20,7 @@
 
 +  Finding a needle in a haystack: Automated mining of silent vulnerability fixes [ASE] [[paper]](https://xin-xia.github.io/publication/ase211.pdf)
 + SPI: Automated Identification of Security Patches via Commits [TOSEM] [[paper]](https://arxiv.org/pdf/2105.14565.pdf)
++ PatchRNN: A Deep Learning-Based System for Security Patch Identification [MILCOM] [[paper]](https://arxiv.org/pdf/2108.03358.pdf)
 
 
 
